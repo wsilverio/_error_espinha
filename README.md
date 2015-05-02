@@ -14,7 +14,9 @@ Repositório da oficina de Arduino + Processing do [Algures X](https://www.faceb
 - princípios {funcionamento, lógica e comandos básicos}
 - firmata {controlando o Arduino através do Processing}
 - minim {P5 + áudio}  
+  
 - - -  
+  
 ###lista de material
 - Laptop
 - Arduino com cabo USB
@@ -33,5 +35,7 @@ Caso não consiga instalar os softwares, chegue 15 min antes que a gente ajuda :
     - [Mac OS X](http://arduino.cc/en/Guide/MacOSX)
 - [Processing](https://processing.org/download/)
 - [Fritzing](http://fritzing.org/) (opcional)  
+  
 - - -  
+  
 ###tópicos
