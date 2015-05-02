@@ -88,4 +88,3 @@ Caso não consiga instalar os softwares, chegue 15 min antes que a gente ajuda :
 - minim::BeatDetect
 - minim::AudioInput
 - minim::FFT *
-- 
